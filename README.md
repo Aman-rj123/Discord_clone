@@ -4,7 +4,7 @@ this is a clone of the website Discord.
 To run
  step 1.
 	
- npm install
+ *npm install
 	
  npm run start
 
